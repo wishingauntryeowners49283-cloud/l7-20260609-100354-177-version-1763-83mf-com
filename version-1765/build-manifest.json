@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-06-02T15:14:35Z",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "video_source_count": 20,
+  "cover_policy": "HTML pages reference top-level 1.jpg through 150.jpg in a cycling sequence.",
+  "baidu_analytics": "Inserted in every generated HTML page before </body>."
+}
